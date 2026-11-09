@@ -33,3 +33,7 @@ You can open VoxelShop by running:
   
 Or you can just log off and log in from your session.  
 The VoxelShop program should at this point be added to your menu ^^
+
+# Uninstall:
+If you ever need to uninstall this Flatpak just run from terminal:
+-  flatpak uninstall --user com.vitco.VoxelShop
