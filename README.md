@@ -1,4 +1,6 @@
 # VoxelShop_Flatpak_Linux
+<img width="1600" height="900" alt="Captura de pantalla de 2026-11-09 04-13-13" src="https://github.com/user-attachments/assets/232f161b-c873-4b45-b833-d99266c4a34d" />
+
 
 ## What is this?
 Unofficial repackage of VoxelShop as a Flatpak and containerized Java Runtime Environment (JRE8).
@@ -22,11 +24,12 @@ Yes, you can also run an older windows version trough Proton, but this has the l
 
 
 # Installation:
-Move the "VoxelShop_1_8_26" Flatpak to a directory with user privileges, your "Downloads" folder should do.  
+Download the "VoxelShop_1_8_26" Flatpak file to a directory with user privileges, your "Downloads" folder should do.  
 Install the flatpak by running from terminal:  
 - flatpak install --user VoxelShop_1_8_26.flatpak  
   
 You can open VoxelShop by running:  
 - flatpak run com.vitco.VoxelShop  
   
-Or alternatively you can just log off and log in from your session and the VoxelShop should at this point be added to your menu ^^
+Or you can just log off and log in from your session.  
+The VoxelShop program should at this point be added to your menu ^^
