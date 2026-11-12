@@ -26,8 +26,8 @@ Yes, you can also run an older windows version trough Proton, but this has the l
 # Installation:
 Download the "VoxelShop_1_8_26" Flatpak file to a directory with user privileges, your "Downloads" folder should do.  
 Install the flatpak by running from terminal:  
-- flatpak install --user VoxelShop_1_8_26.flatpak
-or
+- flatpak install --user VoxelShop_1_8_26.flatpak  
+or  
 - flatpak install --user VoxelShop_1826_1.flatpak  
   
 You can open VoxelShop by running:  
