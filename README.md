@@ -28,7 +28,7 @@ Download the "VoxelShop_1_8_26" Flatpak file to a directory with user privileges
 Install the flatpak by running from terminal:  
 - flatpak install --user VoxelShop_1_8_26.flatpak  
 or  
-- flatpak install --user VoxelShop_1826_1.flatpak  
+- flatpak install --user VoxelShop_1_8_261.flatpak  
   
 You can open VoxelShop by running:  
 - flatpak run com.vitco.VoxelShop  
